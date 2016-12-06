@@ -1,1 +1,38 @@
+  <!DOCTYPE html><meta charset="utf-8"/>
+<html>
+  <head>
+    <title>Muzhda Qaderi</title>
+      <link rel="stylesheet" href="css/aboutPage.css" />
 
+  </head>
+  
+  <body>
+      <div class="left">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="myWork.html">My Work</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+      
+  	  
+      <p class="about"><strong><em>About</em></strong></p>
+      </div>
+      <div class="right">
+      
+      <h1>More Details about Muzhda Qaderi</h1>
+      
+
+      <div class="paragaraph-about-page">
+  
+        <p>Hello, I am Muzhda, an Afghan lady who moved to The United States early 2016. I worked as a Senior Coordinator of Monitoring and Evaluation Technical Support Team at Rahman Safi International (RSI). I am an Afghan Citizen with more than eight years of professional working experience in the capacity of monitoring and evaluation with different humanitarian organizations. I supported the initial design, pilot testing, and subsequent implementation of the M&E system for various projects. My support included working with the client’s M&E team to review and tailor the Performance Management Plan (PMP), and activities of the project to RSI’s innovative technology based M&E solution. I also served as a primary focal point between the client’s M&E team, and RSI’s application development team. I was also integral to the independent third party monitoring of USAID’s funded projects, where I reviewed field monitoring reports, findings, and recommendations by field teams to project management and USAID.
+
+        Before my work with the RSI, I worked as a Monitoring and Evaluation Manager and then as Data Quality Assurance Manager with a number of USAID funded projects, including USAID’s Stablity in Key Areas (SIKA-E), implemented by Architecture Engineering Consulting Operation and Maintenance (AECOM) in Afghanistan.  I conducted more than a dozen of Data Quality Assessments (DQAs) using ADS 203 standards. In addition, I remained a key team member in designing the Monitoring and Evaluation System for many USAID projects. I am energetic with significant writing abilities to accurately convey the message to the readers. I  am bilingual with translation skills from English to Persian  and can work with a diverse ethnic field teams.</p> 
+      
+      </div>
+      </div>
+     
+  </body>
+
+  
+</html>
