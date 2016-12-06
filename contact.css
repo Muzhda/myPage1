@@ -1,0 +1,107 @@
+body {
+  text-align:center;
+  background-image: url("../images/contactPage.png");
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-attachment:fixed;
+  font-family: 'Open Sans', sans-serif;
+  margin:auto;
+  background-position:center center;
+}
+
+h1 {
+  font-family:Times;
+  color:#ffffff;
+  font-size:28px;
+  text-align:left;
+  padding-top: 40px;
+  padding-left:420px;
+}
+
+p{
+  font-family:Times;
+  color:#ffffff;
+  font-size:20px;
+  text-align:left;
+  padding-left:420px;
+}
+
+.email{
+  text-decoration:none;
+  color:#ffffff;
+}
+
+.about {
+  font-family:Alex Brush;
+  color:#042E2F;
+  font-size:70px;
+  letter-spacing: 0.51px;
+  text-align:center;
+  position:fixed;
+  padding-top:200px;
+  padding-left:50px;
+  position:fixed;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  padding-top:30px;
+  position:fixed;
+  padding-left:7px;
+  font-size:20px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: #042E2F;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-family:Impact;
+}
+
+li a:hover {
+  background-color: #042E2F;
+  color:#ffffff;
+}
+.left{
+  width:5%;
+}
+
+.right{
+  width:95%;
+}
+
+.icons{
+  position:center center;
+  padding-left:350px;
+  padding-top:100px;
+}
+
+.row{
+  padding-left:40px;
+  color:#ffffff;
+  font-size:14px;
+  font-family:Times;
+}
+
+input{
+  padding-left:40px;
+}
+
+#submit_button{
+  padding-left:0px;
+  color:#C2990C;
+}
+
+.contactForm{
+  position:center center;
+  padding-left:300px;
+}
